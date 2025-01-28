@@ -21,7 +21,7 @@ chrome.action.onClicked.addListener(async (tab) => {
     });
 
     const apiBase = "https://aihub.xtermai.xyz/api/downloader/instagram";
-    const apiKey = "anyaforger";
+    const apiKey = "Bell409";
     const apiUrl = `${apiBase}?url=${encodeURIComponent(tabUrl)}&key=${apiKey}`;
 
     const response = await fetch(apiUrl);
