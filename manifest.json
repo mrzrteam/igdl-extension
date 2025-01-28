@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram Reels Downloader By Zilfa",
+    "version": "1.0",
+    "description": "Download Instagram Reels easily",
+    "permissions": [
+      "activeTab",
+      "downloads"
+    ],
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_icon": "icon.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
