@@ -44,5 +44,5 @@ Berikut adalah versi yang dirapikan dan lebih terstruktur:
 ### 5. **Uji Ekstensi**
 - Setelah berhasil dimuat, ikon ekstensi mungkin akan muncul di toolbar browser.
 - Klik ikon ekstensi untuk memastikan ekstensi berjalan dengan baik.
-  ![cara pake](https://files.catbox.moe/1no74i.mp4)
+  [cara pake](https://files.catbox.moe/1no74i.mp4)
 --- 
