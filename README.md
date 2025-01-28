@@ -35,7 +35,8 @@ Berikut adalah versi yang dirapikan dan lebih terstruktur:
 
 ### 4. **Memuat Ekstensi ke Browser**
 - Klik tombol **"Load unpacked"** (Muat tanpa pengepakan).
-- Pilih folder hasil ekstraksi yang berisi file `manifest.json`.
+- Pilih folder hasil ekstraksi tadi.
+  ![Load](https://files.catbox.moe/yl4vz7.png)
 - Tunggu hingga ekstensi dimuat dan muncul di daftar ekstensi.
 
 ---
