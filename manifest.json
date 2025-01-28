@@ -8,10 +8,10 @@
       "downloads"
     ],
     "icons": {
-      "48": "icon.png"
+      "48": "asset/icon.png"
     },
     "action": {
-      "default_icon": "icon.png"
+      "default_icon": "asset/icon.png"
     },
     "background": {
       "service_worker": "background.js"
