@@ -1,5 +1,3 @@
-Berikut adalah versi yang dirapikan dan lebih terstruktur:
-
 ---
 
 ## Cara Memasang Ekstensi dari GitHub ke Chrome/Edge
